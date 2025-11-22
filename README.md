@@ -42,8 +42,9 @@ admin.site.register(Car,CarAdmin)
 
 
 ## OUTPUT
-![alt text](<../Screenshot 2025-11-18 144134.png>)
-![alt text](<../Screenshot 2025-11-18 144204.png>)
+<img width="1919" height="1020" alt="Screenshot 2025-11-18 144134" src="https://github.com/user-attachments/assets/98491980-9618-4274-8ee1-f30d8066b6dc" />
+<img width="1919" height="1011" alt="Screenshot 2025-11-18 144204" src="https://github.com/user-attachments/assets/6d635933-1723-47ce-9f71-c4db7fa793bb" />
+
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
